@@ -1,3 +1,8 @@
+#Gaurav Sablok 
+#Senior Postdoctoral Fellow Faculty of Natural and Agricultural Sciences 
+#Room 7-35, Agricultural Sciences Building 
+#University of Pretoria, Private Bag X20 Hatfield 0028, 
+#South Africa 
 A simple parser to clean the genome annotation using the BASH, you can do this also using the GNU AWK 
 # taking all the columns except the annotation column
 cat genome.gff.sample.txt | cut -f 1,2,3,4,5,6,7,8  > sample1.txt
