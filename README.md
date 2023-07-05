@@ -1,5 +1,5 @@
-# Genome_Annotation_Clean
-A parallel encoded cluster computing Genome annotation cleaner that will take a genome annotation file and will clean them for the annotations and prepares for the machine learning. I am putting the code for the pandas, polars, numpy, BASH and R. 
+# genome_annotation_clean
+cleaning the genome annotations and prepares for the machine learning. I am putting the code for the pandas, polars, numpy, BASH and R. 
 Gaurav Sablok \
 Senior Postdoctoral Fellow \
 Faculty of Natural and Agricultural Sciences Room 7-35, \
